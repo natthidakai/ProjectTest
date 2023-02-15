@@ -1,0 +1,6 @@
+npm install react-bootstrap bootstrap
+npm i react-router-dom
+npm install react-icons --save
+npm i react-datetime-picker
+npm i @material-ui/pickers --force
+npm i react-super-responsive-table --force
